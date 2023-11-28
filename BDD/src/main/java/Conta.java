@@ -7,6 +7,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 /**
+ * Autor: Guilherme
  * Uma classe que representa uma conta com funcionalidades de saque usando o Cucumber para desenvolvimento orientado a comportamento.
  */
 public class Conta {
