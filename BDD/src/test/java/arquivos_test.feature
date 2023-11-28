@@ -1,4 +1,4 @@
-#Author: your.email@your.domain.com
+#Author: Guilherme 
 #Keywords Summary :
 #Feature: List of scenarios.
 #Scenario: Business rule through list of steps with arguments.
