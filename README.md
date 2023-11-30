@@ -38,6 +38,9 @@ Este projeto implementa funcionalidades de uma conta bancária usando Behavior-D
 2. **Solicitar um saque sem fundos suficientes:**
     - Cenário: `Solicitar um saque de 100 reais`
     - A conta não permite o saque e mantém o saldo em -50 reais, retornando a mensagem "Saldo Insuficiente".
+  
+### Resultado no Console ao rodar os testes
+![Console Output](console.png)
 
 
 
